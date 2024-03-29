@@ -1,1 +1,2 @@
-# count_down_-program
+# count_down_program
+This is a count down program generator
